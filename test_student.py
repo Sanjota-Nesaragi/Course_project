@@ -1,4 +1,5 @@
-import student
+# test_student_grade.py
+import student as student
 
 def test_calculate_average():
     avg = student.calculate_average(85, 90, 95)
